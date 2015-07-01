@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotFindAtm", "TelegramBotFindAtm\TelegramBotFindAtm.csproj", "{66B47E65-FFF4-475A-AA92-8B0E46248044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotFindAtm.Tests", "TelegramBotFindAtm.Tests\TelegramBotFindAtm.Tests.csproj", "{B37F3656-9565-40FE-AB3D-B6A42C304E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B47E65-FFF4-475A-AA92-8B0E46248044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B47E65-FFF4-475A-AA92-8B0E46248044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B47E65-FFF4-475A-AA92-8B0E46248044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B47E65-FFF4-475A-AA92-8B0E46248044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37F3656-9565-40FE-AB3D-B6A42C304E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37F3656-9565-40FE-AB3D-B6A42C304E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37F3656-9565-40FE-AB3D-B6A42C304E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37F3656-9565-40FE-AB3D-B6A42C304E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
